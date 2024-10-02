@@ -1,0 +1,8 @@
+/home/student/Bureau/LaboRTI2024_sources/build/CMakeFiles/rebuild_cache.dir
+/home/student/Bureau/LaboRTI2024_sources/build/CMakeFiles/edit_cache.dir
+/home/student/Bureau/LaboRTI2024_sources/build/BD_Books/CMakeFiles/rebuild_cache.dir
+/home/student/Bureau/LaboRTI2024_sources/build/BD_Books/CMakeFiles/CreationBD.dir
+/home/student/Bureau/LaboRTI2024_sources/build/BD_Books/CMakeFiles/edit_cache.dir
+/home/student/Bureau/LaboRTI2024_sources/build/ClientBookEncoderQt/CMakeFiles/rebuild_cache.dir
+/home/student/Bureau/LaboRTI2024_sources/build/ClientBookEncoderQt/CMakeFiles/ClientBookEncoderQtApp.dir
+/home/student/Bureau/LaboRTI2024_sources/build/ClientBookEncoderQt/CMakeFiles/edit_cache.dir

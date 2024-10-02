@@ -1,0 +1,1 @@
+/usr/bin/c++ CMakeFiles/CreationBD.dir/CreationBD.cpp.o -o CreationBD   -L/usr/lib64/mysql  -Wl,-rpath,/usr/lib64/mysql -lmysqlclient 
